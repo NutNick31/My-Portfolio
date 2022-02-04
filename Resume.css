@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+.MyWork{
+    padding: 3% 2%;
+    text-align: center;
+}
+#MyWork{
+    padding: 100px;
+    text-align: center;
+}
+#Contact{
+    background-color: #ff4c68;
+    padding: 7% 15%;
+    text-align: center;
+}
+.social-icon{
+    padding: 20px 10px;
+}
+#Intro{
+    margin: 20px 0px;
+    padding: 100px;
+    background-color: #ef8172;
+}
